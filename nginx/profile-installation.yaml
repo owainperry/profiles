@@ -11,5 +11,5 @@ spec:
   source:
     branch: main
     path: .
-    url: https://github.com/owainperry/profiles.git
+    url: git@github.com:owainperry/profiles.git
 status: {}
